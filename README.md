@@ -1,6 +1,5 @@
 # bund
 
-##### Contact ✨
 - [Youtube Video Link](https://youtube.com/shorts/QEK6zif-71M?si=U9U3ntNoKTb5IHs1)
 
 - Layout and Design
