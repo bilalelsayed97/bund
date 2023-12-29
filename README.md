@@ -14,7 +14,7 @@
   <img src="screenshots/7.png" alt="7" height="200">
   <img src="screenshots/8.png" alt="8" height="200">
   <img src="screenshots/9.png" alt="9" height="200">
-  <img src="screenshots/10" alt="10" height="200">
+  <img src="screenshots/10.png" alt="10" height="200">
 </div>
 
 
