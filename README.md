@@ -3,17 +3,18 @@
 - [Youtube Video Link](https://youtube.com/shorts/QEK6zif-71M?si=U9U3ntNoKTb5IHs1)
 
 ## screenshots
+
+<img src="screenshots/1.png" alt="1" height="200">
 <div style="display: flex; justify-content: space-between;">
-  <img src="screenshots/1.png" alt="splash" height="200">
-  <img src="2.png" alt="Signin page" height="200">
-  <img src="3.png" alt="Signin page 2" height="200">
-  <img src="4.png" alt="starred - home page" height="200">
-  <img src="5.png" alt="first-search" height="200">
-  <img src="6.png" alt="filter-search" height="200">
-  <img src="7.png" alt="search-history" height="200">
-  <img src="8.png" alt="search-results" height="200">
-  <img src="9.png" alt="pagination" height="200">
-  <img src="10" alt="signout-confirm" height="200">
+  <img src="screenshots/2.png" alt="2" height="200">
+  <img src="screenshots/3.png" alt="3" height="200">
+  <img src="screenshots/4.png" alt="4" height="200">
+  <img src="screenshots/5.png" alt="5" height="200">
+  <img src="screenshots/6.png" alt="6" height="200">
+  <img src="screenshots/7.png" alt="7" height="200">
+  <img src="screenshots/8.png" alt="8" height="200">
+  <img src="screenshots/9.png" alt="9" height="200">
+  <img src="screenshots/10" alt="10" height="200">
 </div>
 
 
