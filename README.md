@@ -2,6 +2,21 @@
 
 - [Youtube Video Link](https://youtube.com/shorts/QEK6zif-71M?si=U9U3ntNoKTb5IHs1)
 
+## screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/1.png" alt="splash" height="200">
+  <img src="2.png" alt="Signin page" height="200">
+  <img src="3.png" alt="Signin page 2" height="200">
+  <img src="4.png" alt="starred - home page" height="200">
+  <img src="5.png" alt="first-search" height="200">
+  <img src="6.png" alt="filter-search" height="200">
+  <img src="7.png" alt="search-history" height="200">
+  <img src="8.png" alt="search-results" height="200">
+  <img src="9.png" alt="pagination" height="200">
+  <img src="10" alt="signout-confirm" height="200">
+</div>
+
+
 - Layout and Design
 
 Accurate color scheme ✅
