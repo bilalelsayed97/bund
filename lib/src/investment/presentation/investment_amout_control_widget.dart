@@ -47,7 +47,7 @@ class InvestementAmountControlWidget extends StatelessWidget {
                 },
                 child: IconButton(
                   style: state.amount == 250
-                      ? ButtonStyle(
+                      ? const ButtonStyle(
                           backgroundColor:
                               MaterialStatePropertyAll(scaffoldColor),
                         )
@@ -60,8 +60,8 @@ class InvestementAmountControlWidget extends StatelessWidget {
                   icon: state.amount == 250
                       ? SvgPicture.asset(
                           AssetsData.minus,
-                          colorFilter:
-                              ColorFilter.mode(Colors.grey, BlendMode.srcATop),
+                          colorFilter: const ColorFilter.mode(
+                              Colors.grey, BlendMode.srcATop),
                         )
                       : SvgPicture.asset(AssetsData.minus),
                 ),

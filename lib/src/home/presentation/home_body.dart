@@ -35,12 +35,12 @@ class _HomebodyState extends State<Homebody> {
   OverlayEntry createOverlayEntry() {
     OverlayEntry overlayEntry = OverlayEntry(
       builder: (context) => Positioned(
-        top: 0.0,
+        top: context.ww * 0.649,
         left: 0.0,
         right: 0.0,
         bottom: 0.0,
         child: Container(
-          color: Colors.white.withOpacity(0.4),
+          color: Colors.white.withOpacity(0.2),
         ),
       ),
     );
@@ -62,20 +62,20 @@ class _HomebodyState extends State<Homebody> {
         const Gap(16),
         Center(child: CustomPageIndicator(controller: _sliderpageController)),
         Flexible(
-          child: AnimatedBuilder(
-            animation: _pageController,
-            builder: (context, child) => PageView.builder(
-              controller: _pageController,
-              onPageChanged: (int page) {
-                _sliderpageController.animateToPage(
-                  page,
-                  duration: const Duration(milliseconds: 300),
-                  curve: Curves.fastLinearToSlowEaseIn,
-                );
-                simulateContentUpdate();
-              },
-              itemCount: whatYouGet.length,
-              itemBuilder: (context, index) => Column(
+          child: PageView.builder(
+            controller: _pageController,
+            onPageChanged: (int page) {
+              _sliderpageController.animateToPage(
+                page,
+                duration: const Duration(milliseconds: 300),
+                curve: Curves.fastLinearToSlowEaseIn,
+              );
+              simulateContentUpdate();
+            },
+            itemCount: whatYouGet.length,
+            itemBuilder: (context, index) => AnimatedBuilder(
+              animation: _pageController,
+              builder: (context, child) => Column(
                 children: [
                   SizedBox(
                       height: context.ww * 0.33,
