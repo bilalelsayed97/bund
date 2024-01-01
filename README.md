@@ -1,5 +1,23 @@
 # bund
 
+- [Youtube Video Link](https://youtube.com/shorts/QEK6zif-71M?si=U9U3ntNoKTb5IHs1)
+
+## screenshots
+
+<img src="screenshots/1.png" alt="1" height="200">
+<div style="display: flex; justify-content: space-between;">
+  <img src="screenshots/2.png" alt="2" height="200">
+  <img src="screenshots/3.png" alt="3" height="200">
+  <img src="screenshots/4.png" alt="4" height="200">
+  <img src="screenshots/5.png" alt="5" height="200">
+  <img src="screenshots/6.png" alt="6" height="200">
+  <img src="screenshots/7.png" alt="7" height="200">
+  <img src="screenshots/8.png" alt="8" height="200">
+  <img src="screenshots/9.png" alt="9" height="200">
+  <img src="screenshots/10.png" alt="10" height="200">
+</div>
+
+
 - Layout and Design
 
 Accurate color scheme ✅
